@@ -445,7 +445,6 @@ body {
                             .avatar {
                                 width: 35px;
                                 height: 35px;
-                                margin-right: 10px;
                                 border-radius: 50%;
                                 overflow: hidden;
                                 img {
@@ -453,6 +452,7 @@ body {
                                 }
                             }
                             .right-box {
+                                margin-left: 10px;
                                 flex-basis: 100%;
                                 display: flex;
                                 align-items: center;
